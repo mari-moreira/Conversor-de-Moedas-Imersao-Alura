@@ -4,7 +4,7 @@
 <p>Desenvolver um programinha para  convertar de Reais R$ em Dólares $ e Euros €</p>
 
 ##  💻 Projeto Pronto
-![Projeto ](./src/assets/images/Gif-Conversores-de-moeda-v2.gif)
+![Projeto](./src/assets/images/Gif-Conversores-de-moeda-v2.gif)
 
 ## 📱Versão Mobile
 ![Versão Mobile](./src/assets/images/conversor-mobile.png)
